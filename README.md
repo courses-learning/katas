@@ -1,0 +1,2 @@
+# katas
+Short practice katas
